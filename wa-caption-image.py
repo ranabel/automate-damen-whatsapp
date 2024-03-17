@@ -17,5 +17,4 @@ with open("data.csv", "r") as csvfile:
 
         # pw.sendwhatmsg_instantly(number, msg, 20, True, 5)  # Kirim pesan instan
         pw.sendwhats_image(number, img, caption=msg, tab_close=True, wait_time=13)  # Kirim gambar
-
-
+        # disini caption image merupakan pesan yang ingin kita kirimkan

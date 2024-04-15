@@ -15,6 +15,6 @@ Karena kalo magnetnya gada itu kita :>
 Salam,
 :').
 '''.format(name=name)
-                pw.sendwhatmsg_instantly(number, msg, 10, True, 5)
+                pw.sendwhatmsg_instantly(number, msg, 30, True, 10)
             else:
                 print(f"Nomor tidak valid: {number}")

@@ -1,7 +1,6 @@
 import pywhatkit as pw
 import csv
 
-# Buka file CSV
 with open("data.csv", "r") as csvfile:
     reader = csv.reader(csvfile, delimiter=",")
 
@@ -12,4 +11,4 @@ with open("data.csv", "r") as csvfile:
 
         msg = f"Selamat Malam {name}!\nNice Dream :)\n<3"
 
-        pw.sendwhatmsg_instantly(number, msg, 20, True, 5)  # Kirim pesan instan
+        pw.sendwhatmsg_instantly(number, msg, 30, True, 10) 

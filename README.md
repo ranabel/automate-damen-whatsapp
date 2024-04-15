@@ -3,10 +3,26 @@
 To automate sending WhatsApp messages using PyWhatKit, a Python library. PyWhatKit is a straightforward and powerful WhatsApp automation library with numerous useful features. 
 ![alt text](https://github.com/ranabel/automate-damen-whatsapp/blob/main/csv/image.png?raw=true)
 
-# UPDATE NEW
-The latest update to this automation is the split directory, where .py code and several .txt code files have been added. 
-This update aims to minimize running the automation to avoid mistakes or errors. 
-However, please still pay attention to whether the device and time are correct or not.
+
+# Introduction
+PyWhatKit is a Python library with various helpful features. It's easy-to-use and does not require you to do any additional setup. Currently, it is one of the most popular library for WhatsApp and YouTube automation. New updates are released frequently with new features and bug fixes. 
+
+Check out source about [PyWhatKit](https://pypi.org/project/pywhatkit/)
+
+## NOTE 
+1.Clone the repository or download zip <br>
+```bash
+git clone https://github.com/ranabel/automate-whatsapp-damen.git
+```
+#### It is recommended to use and study the SPLIT method first.
+
+
+# UPDATE NEW 
+## in the split directory
+
+The latest update to this automation is the split directory, where .py code and several .txt code files have been added. </br>
+This update aims to minimize running the automation to avoid mistakes or errors. </br>
+However, please still pay attention to whether the device and time are correct or not.</br?>
 In this case, I am using 15s (which I have already adjusted to my own device).
 
   | Name file | Description                                                                                       |
@@ -16,19 +32,9 @@ In this case, I am using 15s (which I have already adjusted to my own device).
   | `list_name.txt`   | A .txt file for the list of names to be included in the chat.                             |
   | `list_sum.txt`    | A .txt file for the list of sums to be included in the chat (ex: the number of tickets).  |
 
-#### NOTE : DON'T FORGET TO CHANGE THE DESTINATION OF THE NAME, NUMBER, AND SUM LISTS ACCORDING TO YOUR NEEDS.
+## in the CSV directory
 
-# Introduction
-PyWhatKit is a Python library with various helpful features. It's easy-to-use and does not require you to do any additional setup. Currently, it is one of the most popular library for WhatsApp and YouTube automation. New updates are released frequently with new features and bug fixes. 
-
-Check out source about [PyWhatKit](https://pypi.org/project/pywhatkit/)
-
-# Tutorials
-1.Clone the repository or download zip <br>
-```bash
-git clone https://github.com/ranabel/automate-whatsapp-damen.git
-```
-2. In this repo, several `.py` files with different functionalities are available. Therefore, utilize them according to your specific needs.
+1. In this repo, several `.py` files with different functionalities are available. Therefore, utilize them according to your specific needs.
    
   | Name python file | Description                            |
   | :--------        | :------------------------------------- |
@@ -41,3 +47,7 @@ git clone https://github.com/ranabel/automate-whatsapp-damen.git
 3. Modify and fill in the text message based on the requirements for sending WhatsApp messages in each message.
 4. We can automate text modifications, whether it involves changing names or making other adjustments.
 5. After completing the modifications, run the `.py` program, and good luck with your testing!
+
+
+#### NOTE : DON'T FORGET TO CHANGE THE DESTINATION OF THE NAME, NUMBER, AND SUM LISTS ACCORDING TO YOUR NEEDS.
+

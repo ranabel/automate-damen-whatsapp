@@ -12,7 +12,7 @@ Check out source about [PyWhatKit](https://pypi.org/project/pywhatkit/)
 ## NOTE 
 1.Clone the repository or download zip <br>
 ```bash
-git clone https://github.com/ranabel/automate-whatsapp-damen.git
+git clone https://github.com/ranabel/automate-damen-whatsapp.git
 ```
 #### IT IS RECOMMENDED TO USE AND STUDY THE `SPLIT` METHOD FIRST.
 

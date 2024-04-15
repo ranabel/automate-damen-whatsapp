@@ -3,6 +3,20 @@
 To automate sending WhatsApp messages using PyWhatKit, a Python library. PyWhatKit is a straightforward and powerful WhatsApp automation library with numerous useful features. 
 ![alt text](https://github.com/ranabel/automate-damen-whatsapp/blob/main/image.png?raw=true)
 
+# UPDATE NEW
+The latest update to this automation is the split directory, where .py code and several .txt code files have been added. 
+This update aims to minimize running the automation to avoid mistakes or errors. 
+However, please still pay attention to whether the device and time are correct or not.
+In this case, I am using 15s (which I have already adjusted to my own device).
+
+  | Name file | Description                                                                                       |
+  | :--------         | :---------------------------------------------------------------------------------------- |
+  | `split_txt.py`    | Contains a .py file to run the WhatsApp automation.                                       |
+  | `list_number.txt` | A .txt file for the list of numbers to be contacted.                                      |
+  | `list_name.txt`   | A .txt file for the list of names to be included in the chat.                             |
+  | `list_sum.txt`    | A .txt file for the list of sums to be included in the chat (ex: the number of tickets).  |
+
+
 # Introduction
 PyWhatKit is a Python library with various helpful features. It's easy-to-use and does not require you to do any additional setup. Currently, it is one of the most popular library for WhatsApp and YouTube automation. New updates are released frequently with new features and bug fixes. 
 

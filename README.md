@@ -14,7 +14,7 @@ Check out source about [PyWhatKit](https://pypi.org/project/pywhatkit/)
 ```bash
 git clone https://github.com/ranabel/automate-whatsapp-damen.git
 ```
-#### It is recommended to use and study the SPLIT method first.
+#### IT IS RECOMMENDED TO USE AND STUDY THE `SPLIT` METHOD FIRST.
 
 
 # UPDATE NEW 
@@ -32,6 +32,9 @@ In this case, I am using 15s (which I have already adjusted to my own device).
   | `list_name.txt`   | A .txt file for the list of names to be included in the chat.                             |
   | `list_sum.txt`    | A .txt file for the list of sums to be included in the chat (ex: the number of tickets).  |
 
+#### NOTE : DON'T FORGET TO CHANGE THE DESTINATION OF THE NAME, NUMBER, AND SUM LISTS ACCORDING TO YOUR NEEDS.
+
+
 ## in the CSV directory
 
 1. In this repo, several `.py` files with different functionalities are available. Therefore, utilize them according to your specific needs.
@@ -47,7 +50,3 @@ In this case, I am using 15s (which I have already adjusted to my own device).
 3. Modify and fill in the text message based on the requirements for sending WhatsApp messages in each message.
 4. We can automate text modifications, whether it involves changing names or making other adjustments.
 5. After completing the modifications, run the `.py` program, and good luck with your testing!
-
-
-#### NOTE : DON'T FORGET TO CHANGE THE DESTINATION OF THE NAME, NUMBER, AND SUM LISTS ACCORDING TO YOUR NEEDS.
-

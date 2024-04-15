@@ -16,6 +16,7 @@ In this case, I am using 15s (which I have already adjusted to my own device).
   | `list_name.txt`   | A .txt file for the list of names to be included in the chat.                             |
   | `list_sum.txt`    | A .txt file for the list of sums to be included in the chat (ex: the number of tickets).  |
 
+#### NOTE : DON'T FORGET TO CHANGE THE DESTINATION OF THE NAME, NUMBER, AND SUM LISTS ACCORDING TO YOUR NEEDS.
 
 # Introduction
 PyWhatKit is a Python library with various helpful features. It's easy-to-use and does not require you to do any additional setup. Currently, it is one of the most popular library for WhatsApp and YouTube automation. New updates are released frequently with new features and bug fixes. 

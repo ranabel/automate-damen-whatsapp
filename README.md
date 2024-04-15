@@ -1,7 +1,7 @@
 # Automate WhatsApp Damen
 **Automate Send Message WhatsApp**
 To automate sending WhatsApp messages using PyWhatKit, a Python library. PyWhatKit is a straightforward and powerful WhatsApp automation library with numerous useful features. 
-![alt text](https://github.com/ranabel/automate-damen-whatsapp/blob/main/image.png?raw=true)
+![alt text](https://github.com/ranabel/automate-damen-whatsapp/blob/main/csv/image.png?raw=true)
 
 # UPDATE NEW
 The latest update to this automation is the split directory, where .py code and several .txt code files have been added. 
